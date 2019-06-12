@@ -1,0 +1,13 @@
+# Websocket API key config file
+#
+# example_app:
+#   application: Name of Application accessing Websocket
+#   key: A UUIDv4 that is the API key
+#   status: The status of the API key
+#   owner: The owner of the key (email)
+#
+#   Statuses are:
+#   0: OK (Production)
+#   1: Test Key (Non-Live Data)
+#   2: Not Active
+#   3: Access Revoked
